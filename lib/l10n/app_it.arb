@@ -1,0 +1,79 @@
+{
+  "@@locale": "it",
+  "appTitle": "Morse App",
+  "welcomeTo": "Benvenuto in",
+  "translate": "Traduci",
+  "learn": "Impara",
+  "account": "Account",
+  "feedback": "Feedback",
+  "version": "v{version}",
+  "@version": {
+    "placeholders": {
+      "version": {"type": "String"}
+    }
+  },
+  "youreNotLoggedIn": "Non hai fatto il login!",
+  "userLabel": "Utente: {username}",
+  "@userLabel": {
+    "placeholders": {
+      "username": {"type": "String"}
+    }
+  },
+  "translateInfo": "Vuoi tradurre dal Morse o dal Testo?",
+  "textToMorse": "Testo a Morse",
+  "morseToText": "Morse a Testo",
+  "insertText": "Inserisci testo…",
+  "writeToTranslate": "Scrivi per tradurre…",
+  "useButtonsBelow": "Usa i bottoni sotto per scrivere…",
+  "enter": "INVIO",
+  "delete": "CANC",
+  "selectLearnMethod": "Seleziona il tuo metodo preferito per imparare…",
+  "choose": "SCEGLI",
+  "infiniChoose": "∞ SCEGLI",
+  "type": "SCRIVI",
+  "words": "PAROLE",
+  "writeTheAnswer": "Scrivi la risposta…",
+  "correct": "Giusto!",
+  "wrong": "Sbagliato!",
+  "score": "Punteggio: {score}",
+  "@score": {
+    "placeholders": {
+      "score": {"type": "int"}
+    }
+  },
+  "highScore": "Record: {score}",
+  "@highScore": {
+    "placeholders": {
+      "score": {"type": "int"}
+    }
+  },
+  "newHighScore": "Nuovo Record: {score}",
+  "@newHighScore": {
+    "placeholders": {
+      "score": {"type": "int"}
+    }
+  },
+  "selectPromptType": "Seleziona la tipologia di prompt",
+  "both": "ENTRAMBI",
+  "onlyMorse": "Solo MORSE",
+  "onlyText": "Solo TESTO",
+  "back": "Indietro",
+  "login": "Login",
+  "signIn": "Registrati",
+  "logOut": "Esci",
+  "username": "Nome utente",
+  "insertUsername": "Inserisci il nome utente…",
+  "save": "Salva",
+  "wait": "Attendi...",
+  "noHashChar": "Non puoi usare il carattere '#'!",
+  "usernameSaved": "Benvenuto, {username}",
+  "@usernameSaved": {
+    "placeholders": {
+      "username": {"type": "String"}
+    }
+  },
+  "yourScores": "I tuoi punteggi",
+  "scoreChoose": "Choose infinito",
+  "scoreHighChoose": "Record Choose",
+  "scoreType": "Scrivi"
+}

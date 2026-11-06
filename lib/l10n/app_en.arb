@@ -1,0 +1,79 @@
+{
+  "@@locale": "en",
+  "appTitle": "Morse App",
+  "welcomeTo": "Welcome to",
+  "translate": "Translate",
+  "learn": "Learn",
+  "account": "Account",
+  "feedback": "Feedback",
+  "version": "v{version}",
+  "@version": {
+    "placeholders": {
+      "version": {"type": "String"}
+    }
+  },
+  "youreNotLoggedIn": "You're not logged in!",
+  "userLabel": "User: {username}",
+  "@userLabel": {
+    "placeholders": {
+      "username": {"type": "String"}
+    }
+  },
+  "translateInfo": "Do you want to translate from MORSE or TEXT?",
+  "textToMorse": "Text to Morse",
+  "morseToText": "Morse to Text",
+  "insertText": "Insert text…",
+  "writeToTranslate": "Write to translate…",
+  "useButtonsBelow": "Use the buttons below to write…",
+  "enter": "ENTER",
+  "delete": "CANC",
+  "selectLearnMethod": "Select a learn method…",
+  "choose": "CHOOSE",
+  "infiniChoose": "∞ CHOOSE",
+  "type": "TYPE",
+  "words": "WORDS",
+  "writeTheAnswer": "Write the answer…",
+  "correct": "Correct!",
+  "wrong": "Wrong!",
+  "score": "Score: {score}",
+  "@score": {
+    "placeholders": {
+      "score": {"type": "int"}
+    }
+  },
+  "highScore": "HighScore: {score}",
+  "@highScore": {
+    "placeholders": {
+      "score": {"type": "int"}
+    }
+  },
+  "newHighScore": "New HighScore: {score}",
+  "@newHighScore": {
+    "placeholders": {
+      "score": {"type": "int"}
+    }
+  },
+  "selectPromptType": "Select the prompt type…",
+  "both": "BOTH",
+  "onlyMorse": "Only MORSE",
+  "onlyText": "Only TEXT",
+  "back": "Back",
+  "login": "Login",
+  "signIn": "Sign In",
+  "logOut": "Log Out",
+  "username": "Username",
+  "insertUsername": "Insert Username…",
+  "save": "Save",
+  "wait": "Wait...",
+  "noHashChar": "You cannot use the '#' char!",
+  "usernameSaved": "Welcome, {username}",
+  "@usernameSaved": {
+    "placeholders": {
+      "username": {"type": "String"}
+    }
+  },
+  "yourScores": "Your scores",
+  "scoreChoose": "Infinite Choose",
+  "scoreHighChoose": "Choose HighScore",
+  "scoreType": "Type"
+}
